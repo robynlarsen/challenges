@@ -1,0 +1,32 @@
+/*
+ * Variables
+ */
+
+// Typography
+
+$sans: 'Source Sans Pro', sans-serif;
+$serif: 'Merriweather', Georgia, serif;
+
+$thin: 200;
+// $light: 300;
+$normal: 400;
+// $medium: 500;
+$bold: 700;
+$heavy: 900;
+
+// Colors
+
+$blue: #3C84C4;
+$lightGrey: #ecf0f1;
+$darkGrey: #2e3b48;
+$twitter: #29b5e9;
+$facebook: #3b5b99;
+$gmail: #d74a38;
+
+// Responsive breakpoints
+$tiny-screen: 480px;
+$small-screen: 768px;
+$medium-screen: 992px;
+$tiny: "only screen and (min-width: #{$tiny-screen})";
+$small: "only screen and (min-width: #{$small-screen})";
+$medium: "only screen and (min-width: #{$medium-screen})";
